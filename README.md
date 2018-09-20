@@ -1,5 +1,3 @@
-![AuthHeaderUpdater](https://ihackthings.online/content/images/2018/09/logo.png)
-
 # HeaderUpdater
 
 HeaderUpdater is a Burp extension that allows you to change a header when Burp is performing a scan.
