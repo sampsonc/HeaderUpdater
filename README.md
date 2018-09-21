@@ -19,6 +19,7 @@ Check "Debug" to output debug information to the extension output window.
 ## Authors
 
 * **Carl Sampson** -  [@chs](https://twitter.com/chs)
+* **Jesse Kinser** -  [@securitybites](https://twitter.com/securitybites)
 
 ## License
 
